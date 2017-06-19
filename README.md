@@ -58,6 +58,11 @@ export those over NFSv3 and NFSv4.
 [Bareos](https://bareos.org)
 
 
+### gluster-swift
+[gluster-swift](https://github.com/gluster/gluster-swift)
+Gluster-Swift provides object interface to GlusterFS volumes. It allows files and directories created on GlusterFS volume to be accessed as objects via the OpenStack Swift and S3 API.
+
+
 ### gluster-block
 [gluster-block](https://github.com/gluster/gluster-block)
 
