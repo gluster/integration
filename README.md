@@ -51,7 +51,11 @@ export those over NFSv3 and NFSv4.
 
 
 ### oVirt
-[oVirt](https://ovirt.org)
+[oVirt](https://ovirt.org) is an open-source virtualization platform that allows users to 
+manage virtual machines, storage and virtualized networks from a web interface. Gluster 
+has been integrated with oVirt to provide the storage for virtual machine images and can be 
+deployed in [hyperconverged mode](http://www.ovirt.org/develop/release-management/features/gluster/glusterfs-hyperconvergence/). 
+oVirt can also manage and monitor your standalone Gluster deployments. 
 
 
 ### Bareos
@@ -74,6 +78,10 @@ Gluster-Swift provides object interface to GlusterFS volumes. It allows files an
 ### Wireshark
 [Wireshark](https://wireshark.org)
 
+### gluster-nagios
+[nagios-server-addons](https://github.com/gluster/nagios-server-plugins-gluster) and [gluster-nagios-addons]
+(https://github.com/gluster/nagios-plugins-gluster) provide plugins to configure and monitor gluster services
+via [Nagios](https://www.nagios.org/)
 
 ### OpenStack
 #### OpenStack Cinder
