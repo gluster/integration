@@ -68,7 +68,7 @@ Gluster-Swift provides object interface to GlusterFS volumes. It allows files an
 
 
 ### gluster-block
-[gluster-block](https://github.com/gluster/gluster-block)
+[gluster-block](https://github.com/gluster/gluster-block) makes it easy to export block-images stored on Gluster Volumes through iSCSI (with multipath). The [project planning for gluster-block](https://github.com/gluster/gluster-block/projects/1) tracks the tasks that are planned, happening and finished.
 
 
 ### GlusterFS Coreutils
