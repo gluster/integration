@@ -33,6 +33,23 @@ been integrated with Gluster in some way or form. Additions, corrections and
 improved descriptions can be contributed through [GitHub Pull
 Requests](https://github.com/gluster/integration/edit/master/README.md).
 
+### Containerization
+
+[gluster-containers](https://github.com/gluster/gluster-containers) provides
+Docker container specifications for GlusterFS.
+
+[gluster-kubernetes](https://github.com/gluster/gluster-kubernetes/) provides
+tools and examples for deploying and using GlusterFS in the Kubernetes and
+OpenShift container platforms. It uses [heketi](#restful-management) to
+facilitate volume management of GlusterFS from within the container platforms.
+
+### RESTful Management
+
+[heketi](https://github.com/heketi/heketi) is a versatile, RESTful volume
+management interface for GlusterFS, able to manage volumes across multiple
+clusters and thus enabling GlusterFS at larger scales. It can be run as a
+system daemon or as a container, and can manage containerized and non-
+containerized GlusterFS clusters.
 
 ### NFS-Ganesha
 
