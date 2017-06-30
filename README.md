@@ -79,9 +79,9 @@ Gluster-Swift provides object interface to GlusterFS volumes. It allows files an
 [Wireshark](https://wireshark.org)
 
 ### gluster-nagios
-[nagios-server-addons](https://github.com/gluster/nagios-server-plugins-gluster) and [gluster-nagios-addons]
-(https://github.com/gluster/nagios-plugins-gluster) provide plugins to configure and monitor gluster services
-via [Nagios](https://www.nagios.org/)
+[nagios-server-addons](https://github.com/gluster/nagios-server-plugins-gluster) and
+[gluster-nagios-addons](https://github.com/gluster/nagios-plugins-gluster) provide plugins to
+configure and monitor gluster services via [Nagios](https://www.nagios.org/).
 
 ### OpenStack
 #### OpenStack Cinder
